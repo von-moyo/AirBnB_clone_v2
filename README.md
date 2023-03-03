@@ -1,34 +1,20 @@
-<h1 align="center">HolbertonBnB</h1>
-<p align="center">An AirBnB clone.</p>
-
-<p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
-	    alt="HolbertonBnB logo">
-</p>
-
 ## Description :house:
 
-HolbertonBnB is a complete RESTful web application, integrating file and
+AirBnB is a complete RESTful web application, integrating file and
 database (MySQL) storage in a back-end API with front-end interfacing in a
 clone of AirBnB. The front-end is designed using HTML5/CSS3 and is served using
 Python Flask. The application is configured on a distributed system - two web
 servers and one load balancer - with Nginx and HAProxy.
-
-HolbertonBnB is still in active development, with complete functionality set to
+AirBnB is still in active development, with complete functionality set to
 deploy in the coming month:
 
 * Complete integration of a RESTful API
 * Full configuration of website with domain name
 * Serving of dynamic content using JavaScript
 
-<p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_stack.png"
-	    alt="HolbertonBnB stack">
-</p>
-
 ---
 
-## NOTE TO 2019 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
+## NOTE TO 2022 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
 
 This web app has been the capstone project of my full-stack education at
 Holberton School and I want to show it off as a demonstration of all the
@@ -37,17 +23,17 @@ skills I've learned at this school.
 With that said, I must clarify that it is not complete. As mentioned, the
 clone is a work-in-progress, with full deployment as a RESTful API still to
 come. Finishing touches will be occurring over the next month, my final at
-Holberton.
+ALX.
 
 Recognizing that I am sharing a near-complete project, I additionally put
 together a small Flask app according to the specifications described in the
 application. Please take a look at this separate repository here:
 
-https://github.com/bdbaraban/lyft_apprenticeship_application
+
 
 Nonetheless, allow me to talk a little more about this AirBnB clone. This
 repository is the second iteration of the project. In the first version
-(viewable [here](https://github.com/bdbaraban/AirBnB_clone)), I, together
+(viewable [here](https://github.com/Anteneh2121/AirBnB_clone)), I, together
 with a cohort mate, built up the initial file storage back-end and
 console from scratch. We pair programmed for most all of this version one work.
 
@@ -59,7 +45,7 @@ to build up the database storage engine of the back-end.
 In between each version, I put together an entire CSS-styled HTML web page
 for the project. This front-end development was coded independently, although
 the HTML files I personally wrote are only posted in
-[version one](https://github.com/bdbaraban/AirBnB_clone) (the
+[version one](https://github.com/Anteneh2121/AirBnB_clone) (the
 [web_static](./web_static) folder in this directory was included in the
 fork). Addtionally, all Shell, Puppet, and Fabric deployment scripts/manifests
 were coded myself.
@@ -363,10 +349,9 @@ Alternatively, you can specify a single test file to run at a time:
 ```
 $ python3 unittest -m tests/test_console.py
 ```
+<a href=”image/Project-0x03.AirBnB_clone-Deploy-static-ALX-Africa-Intranet.html">file</a>
 
-## Authors :black_nib:
-* **Brennan D Baraban** <[bdbaraban](https://github.com/bdbaraban)>
-* **Samie Azad** <[sazad44](https://github.com/sazad44)>
-* **Andrew Lindburg** <[atlindburg](https://github.com/atlindburg)>
-* **Kevin Yook** <[yook00627](https://github.com/yook00627)>
-* **Miranda Evans** <miranda.r.evans@gmail.com>
+
+## Authors
+Gedeon Obae Gekonge - [Github](https://github.com/Gedeonobae)  
+Gideon Ogega - [Github](https://github.com/Ogega254)
